@@ -24,7 +24,13 @@ form {
   height:30px;
 }
 
-#add {
+#mark-comp {
+   margin-right: 5px
+   width: 60px;
+   height: 20px;
+}
+
+/*#add {
     width:100px;
     margin-left: 20px;
     padding: 60px;
@@ -36,7 +42,7 @@ form {
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
+}*/
 
 /*.todos {
     display: flex;
